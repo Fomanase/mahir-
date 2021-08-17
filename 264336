@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>My own portfolio website </title>
+<link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <section class="k">  
+    <body class="h">
+    <div><h1>Welcome To <span style="color:lightgreen;">  My Website</span></h1>
+ </div></section>
+    </body> 
+    
+</html>
